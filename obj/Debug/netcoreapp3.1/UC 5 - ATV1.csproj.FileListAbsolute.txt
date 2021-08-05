@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.exe
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.deps.json
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.dll
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\bin\Debug\netcoreapp3.1\UC 5 - ATV1.pdb
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.dll
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.pdb
+C:\Users\felip\OneDrive\Documentos\UC 5 - ATV1\obj\Debug\netcoreapp3.1\UC 5 - ATV1.genruntimeconfig.cache
