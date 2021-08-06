@@ -8,6 +8,8 @@ namespace UC_5___ATV1
         public string descricao {get; set;}
         public double valor_unitario {get; set;}
         public int quantidade {get; set;}
+        public static string produto;
+
 
     }
 
