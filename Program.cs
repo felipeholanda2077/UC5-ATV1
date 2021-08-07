@@ -1,16 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 
 namespace UC_5___ATV1
 {
-
-    class Program
+    internal class NewBaseType
     {
-
         static void Main(string[] args)
         {
             List<Pedido> pedidos = new List<Pedido>();
+            ItemPedido Item = new ItemPedido();
             char fim = 'S';
 
             do
@@ -21,33 +19,43 @@ namespace UC_5___ATV1
                 Console.WriteLine();
 
                 Console.WriteLine(" Qual o tipo do produto");
-                ItemPedido.descricao = Console.ReadLine();
+                Item.descricao = Console.ReadLine();
                 Console.WriteLine();
 
                 Console.WriteLine(" Qual o valor do pedido ");
-                ItemPedido.valor_unitario = Convert.ToDouble(Console.ReadLine());
-                
-                
+                Item.valor_unitario = Convert.ToDouble(Console.ReadLine());
+
+
                 Console.WriteLine(" Quantos pedidos ");
-                ItemPedido.quantidade = Convert.ToInt16(Console.ReadLine());
+                Item.quantidade = Convert.ToInt16(Console.ReadLine());
 
                 Console.WriteLine("Quer adicionar novo PEDIDO? (S/N)");
+                fim = Console.ReadKey().KeyChar;
+
                 int caseSwitch = 1;
                 caseSwitch = int.Parse(Console.ReadLine());
 
+                switch (caseSwitch)
+                {
+                    case 1:
+                        Console.WriteLine("Case 1");
+                        break;
 
-                fim = Console.ReadKey().KeyChar;
+                    case 2:
+                        Console.WriteLine("Case 2");
+                        break;
 
+                    default:
+                        Console.WriteLine("ERRO");
+                        break;
+                }
 
-
-            }
-            while (fim == 'S');
-            {
                 //apresenta o total do pedido
-            }
-            }
+
+            } while (fim == 'S') ;
         }
     }
+}
 
 
 
@@ -56,6 +64,3 @@ namespace UC_5___ATV1
 
 
 
-
-
-            
