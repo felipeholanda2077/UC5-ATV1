@@ -5,6 +5,7 @@ namespace UC_5___ATV1
 {
     internal class NewBaseType
     {
+
         static void Main(string[] args)
         {
             List<Pedido> pedidos = new List<Pedido>();
@@ -35,6 +36,8 @@ namespace UC_5___ATV1
                 int caseSwitch = 1;
                 caseSwitch = int.Parse(Console.ReadLine());
 
+
+
                 switch (caseSwitch)
                 {
                     case 1:
@@ -50,10 +53,10 @@ namespace UC_5___ATV1
                         break;
                 }
 
-                //apresenta o total do pedido
 
             } while (fim == 'S') ;
         }
+
     }
 }
 
