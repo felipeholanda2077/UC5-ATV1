@@ -9,7 +9,7 @@ namespace UC_5___ATV1
         public double valor_unitario;
         public int quantidade;
         public static string produto;
-        public static object Itens;
+        
 
 
     }
